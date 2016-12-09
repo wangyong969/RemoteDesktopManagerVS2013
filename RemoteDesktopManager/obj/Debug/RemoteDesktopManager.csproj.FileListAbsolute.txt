@@ -1,0 +1,14 @@
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.csprojResolveAssemblyReference.cache
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.About.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.DiscoveryForm.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.Export.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.GroupList.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.MainForm.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.Properties.Resources.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.Settings.resources
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.csproj.GenerateResource.Cache
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\bin\Debug\RemoteDesktopManager.exe.config
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\bin\Debug\RemoteDesktopManager.exe
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\bin\Debug\RemoteDesktopManager.pdb
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.exe
+D:\DEMo\RemoteDesktop\tscm_src_1.6\RemoteDesktopManager\obj\Debug\RemoteDesktopManager.pdb

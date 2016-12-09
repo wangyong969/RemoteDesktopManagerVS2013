@@ -1,0 +1,5 @@
+D:\DEMo\RemoteDesktop\tscm_src_1.6\SetupHelper\bin\Debug\SetupHelper.exe
+D:\DEMo\RemoteDesktop\tscm_src_1.6\SetupHelper\bin\Debug\SetupHelper.pdb
+D:\DEMo\RemoteDesktop\tscm_src_1.6\SetupHelper\obj\Debug\SetupHelper.csprojResolveAssemblyReference.cache
+D:\DEMo\RemoteDesktop\tscm_src_1.6\SetupHelper\obj\Debug\SetupHelper.exe
+D:\DEMo\RemoteDesktop\tscm_src_1.6\SetupHelper\obj\Debug\SetupHelper.pdb
